@@ -1,7 +1,11 @@
 # Mascot Theme for RPCS3
 <br>
 (Also check out my other theme <a href="https://github.com/fourminute/RPCS3Science">SCIENCE for RPCS3</a>)
+<b>White Version</br>
 <img src="https://raw.githubusercontent.com/fourminute/RPCS3Mascot/master/screenshot.png" width="800"/>
+<br>
+<b>Dark Version</br>
+<img src="https://raw.githubusercontent.com/fourminute/RPCS3Mascot/master/darkscreenshot.png" width="800"/>
 <br>
 <p>Created for RPCS3</p>
 <p>To install copy "mascot by fourminute.qss" and "mascot-background.jpg" to RPCS3\GuiConfigs</p>

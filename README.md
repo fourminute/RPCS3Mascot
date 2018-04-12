@@ -2,7 +2,7 @@
 <br>
 (Also check out my other theme <a href="https://github.com/fourminute/RPCS3Science">SCIENCE for RPCS3</a>)
 <br>
-<b>White Version</b>
+<b>Light Version</b>
 <img src="https://raw.githubusercontent.com/fourminute/RPCS3Mascot/master/screenshot.png" width="800"/>
 <br>
 <b>Dark Version</b>

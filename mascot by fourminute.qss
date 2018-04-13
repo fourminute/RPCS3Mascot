@@ -83,6 +83,7 @@ QHeaderView::section {
 	background: #e32168;
 	color: #f1f1f1;
 	padding-left: 0.05em;
+	margin-top:1px;
 	padding-top: 0.20em;
 	padding-bottom: 0.20em;
 	text-transform: lowercase;
@@ -260,7 +261,8 @@ QDockWidget {
 	background: transparent;
 	text-transform: lowercase;
 	color: #f1f1f1;
-	font-weight: 350;
+	font-weight: 425;
+	
 }
 [floating="true"] {
 	border-image: url("GuiConfigs/mascot-dialog.jpg");

@@ -450,6 +450,10 @@ QWidget#trophy_notification_frame {
 	color: #f1f1f1;
 }
 
+/* Bad borders */
 QTableWidget {
+	border: 0px;
+}
+QToolBar {
 	border: 0px;
 }

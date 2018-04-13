@@ -447,3 +447,7 @@ QWidget#trophy_notification_frame {
 	background-color: #e32168;
 	color: #f1f1f1;
 }
+
+QTableWidget {
+	border: 0px;
+}

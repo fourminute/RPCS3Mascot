@@ -72,17 +72,8 @@ QDialog, QWidget#trophy_manager, QMainWindow#main_window {
 	border-image: url("GuiConfigs/mascot-dialog.jpg");
 
 }
-QWidget#trophy_manager {
-border-image: url("GuiConfigs/mascot-dialog.jpg");
-color: #f1f1f1;
-font-weight: 300;
-}
 QDialog#settings_dialog {
 border-image: url("GuiConfigs/mascot-background.jpg") !important;
-}
-QMainWindow#main_window {
-border-image: none !important;
-background-image: url("GuiConfigs/mascot-dialog.jpg");
 }
 
 

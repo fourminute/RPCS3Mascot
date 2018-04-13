@@ -69,8 +69,20 @@ QWidget#cg_disasm {
 
 /* Main Window, Dialogs and Trophy Manager which isn't a dialog */
 QDialog, QWidget#trophy_manager, QMainWindow#main_window {
-	border-image: url("GuiConfigs/dark-mascot-background.jpg");
+	border-image: url("GuiConfigs/dark-mascot-dialog.jpg");
 
+}
+QWidget#trophy_manager {
+border-image: url("GuiConfigs/dark-mascot-dialog.jpg");
+color: #f1f1f1;
+font-weight: 300;
+}
+QDialog#settings_dialog {
+border-image: url("GuiConfigs/dark-mascot-background.jpg") !important;
+}
+QMainWindow#main_window {
+border-image: none !important;
+background-image: url("GuiConfigs/dark-mascot-dialog.jpg");
 }
 
 
@@ -260,7 +272,7 @@ QDockWidget {
 	font-weight: 350;
 }
 [floating="true"] {
-	border-image: url("GuiConfigs/dark-mascot-background.jpg");
+	border-image: url("GuiConfigs/dark-mascot-dialog.jpg");
 }
 QDockWidget::title {
 	background: #e32168;
@@ -372,6 +384,7 @@ QToolButton::hover {
 /* Set Theme UI colors */
 QLabel#gamelist_icon_background_color {
 	color: transparent;
+	
 }
 
 

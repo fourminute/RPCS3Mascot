@@ -225,6 +225,9 @@ QPushButton {
 	min-height: 37px;
 
 }
+QPushButton::hover {
+	background: #72042d;
+}
 QPushButton::disabled {
 	background: #72042d;
 }

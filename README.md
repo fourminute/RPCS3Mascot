@@ -3,10 +3,10 @@
 (Also check out my other theme <a href="https://github.com/fourminute/RPCS3Science">SCIENCE for RPCS3</a>)
 <br>
 <b>Light Version</b>
-<img src="https://raw.githubusercontent.com/fourminute/RPCS3Mascot/master/screenshot.png" width="800"/>
+<img src="https://raw.githubusercontent.com/fourminute/RPCS3Mascot/master/mscreen.png" width="800"/>
 <br>
 <b>Dark Version</b>
-<img src="https://raw.githubusercontent.com/fourminute/RPCS3Mascot/master/darkscreenshot.png" width="800"/>
+<img src="https://raw.githubusercontent.com/fourminute/RPCS3Mascot/master/dmscreen.png" width="800"/>
 <br>
 <p>Created for RPCS3</p>
 <p>To install copy "mascot by fourminute.qss", "mascot-background.jpg", and "mascot-dialog.jpg" to RPCS3\GuiConfigs</p>

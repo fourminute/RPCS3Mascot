@@ -84,6 +84,7 @@ QHeaderView::section {
 	color: #f1f1f1;
 	padding-left: 0.05em;
 	padding-top: 0.20em;
+	margin-top: 1px;
 	padding-bottom: 0.20em;
 	text-transform: lowercase;
 	border: none;
@@ -260,7 +261,7 @@ QDockWidget {
 	background: transparent;
 	text-transform: lowercase;
 	color: #f1f1f1;
-	font-weight: 350;
+	font-weight: 425;
 }
 [floating="true"] {
 	border-image: url("GuiConfigs/dark-mascot-dialog.jpg");
@@ -284,7 +285,6 @@ QTabWidget::pane {
 QMenuBar {
 	height:1.5em;
 	text-transform: lowercase;
-	
 }
 QMenuBar::item {
 	margin-right: 0.20em;
@@ -371,7 +371,6 @@ QToolButton::hover {
 	border-radius:5px;
 }
 
-
 /* Set Theme UI colors */
 QLabel#gamelist_icon_background_color {
 	color: transparent;
@@ -447,6 +446,11 @@ QWidget#trophy_notification_frame {
 	background-color: #e32168;
 	color: #f1f1f1;
 }
+
+/* Bad borders */
 QTableWidget {
+	border: 0px;
+}
+QToolBar {
 	border: 0px;
 }

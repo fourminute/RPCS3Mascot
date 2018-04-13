@@ -9,7 +9,8 @@
 <img src="https://raw.githubusercontent.com/fourminute/RPCS3Mascot/master/darkscreenshot.png" width="800"/>
 <br>
 <p>Created for RPCS3</p>
-<p>To install copy "mascot by fourminute.qss" and "mascot-background.jpg" to RPCS3\GuiConfigs</p>
+<p>To install copy "mascot by fourminute.qss", "mascot-background.jpg", and "mascot-dialog.jpg" to RPCS3\GuiConfigs</p>
+<p><i>For the dark theme replace "mascot" with "dark-mascot".</i></p>
 <p>Open RPCS3 > Configuration > System > Emulator > UI Stylesheets > mascot by fourminute</p>
 <p>Click Save</p>
 <p>Done!</p>
